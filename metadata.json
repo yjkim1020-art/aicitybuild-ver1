@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TimeFlow - Solo Entrepreneur Focus",
+  "description": "A high-efficiency schedule and task management app designed specifically for solo entrepreneurs, featuring NLP input and visual timelines.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
